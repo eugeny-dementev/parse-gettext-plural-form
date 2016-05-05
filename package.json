@@ -1,0 +1,19 @@
+{
+  "name": "parse-gettext-plural-form",
+  "version": "0.0.1",
+  "description": "Make function '(number) => pluralNumber' from gettext Plural-Forms string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gettext",
+    "plural",
+    "form",
+    "parse",
+    "i18n",
+    "po"
+  ],
+  "author": "Eugeny Dementev",
+  "license": "MIT"
+}
